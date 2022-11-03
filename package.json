@@ -1,0 +1,24 @@
+{
+  "name": "react-playground-starter-forked",
+  "version": "0.0.7",
+  "description": null,
+  "keywords": [],
+  "homepage": "https://codesandbox.io/s/zzloxr09mp",
+  "main": "index.js",
+  "dependencies": {
+    "@material-ui/core": "4.12.4",
+    "@types/react": "16.14.32",
+    "react": "16.14.0",
+    "react-dom": "16.14.0",
+    "react-flexbox-grid": "2.1.0"
+  },
+  "devDependencies": {
+    "react-scripts": "1.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
